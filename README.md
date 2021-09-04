@@ -1,4 +1,4 @@
-## trendline.rusia2018
+## lineartrend.rusia2018
 ### Un código en Python (.ipynb) para predecir qué equipos ganan los partidos de Repechaje y clasifican al Mundial Rusia 2018
 
 Los archivos funcionan en Jupyter Notebook. Existen 1 archivo: 
