@@ -1,7 +1,7 @@
 ## lineartrend.rusia2018
 ### Un código en Python (.ipynb) para predecir qué equipos ganan los partidos de Repechaje y clasifican al Mundial Rusia 2018
 
-Los archivos funcionan en Jupyter Notebook. Existen 1 archivo: 
+El archivo funciona en Jupyter Notebook: 
 
 1. lineartrend_ES.ipynb : Graficamos el puesto en el FIFA ranking vs tiempo de los equipos que llegaron al repechaje. Adicionalmente formulamos una aproximación lineal usando Scipy stats.linregress(), el cual hace uso del método de los mínimos cuadrados.
 
