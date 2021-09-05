@@ -7,4 +7,4 @@ The file runs in Jupyter Notebook:
 
 A complete analysis is given in the article: [nepy.pe/es/lineartrend.rusia2018.](http://www.nepy.pe/en/education/linear-trends-to-predict-the-results-of-the-world-cup-qualification-play-offs/) 
 
-A detailes explanation of the least squares method is given in the tutorial: [nepy.pe/es/leastsquares.despacito.](http://www.nepy.pe/en/tutorial/least-squares-method/) 
+A detailed explanation of the least squares method is given in the tutorial: [nepy.pe/es/leastsquares.despacito.](http://www.nepy.pe/en/tutorial/least-squares-method/) 
