@@ -7,7 +7,7 @@ Considerando la tendencia lineal predecimos que equipos ganan los partidos de re
 
 Para los equipos que clasificaron al repechaje, graficamos el puesto en el FIFA ranking vs. el tiempo y calculamos la aproximación lineal usando `Scipy stats.linregress()`.
 
-- Descargar `lineartrend.ipynb` y correr. 
+- Descargar `linear-trend.ipynb` y correr. 
 
 
 
