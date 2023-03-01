@@ -1,10 +1,18 @@
-## lineartrend.rusia2018
-### Un código en Python (.ipynb) para predecir qué equipos ganan los partidos de Repechaje y clasifican al Mundial Rusia 2018
+## La tendencia lineal para predecir los resultados de los repechajes al Mundial
 
-El archivo funciona en Jupyter Notebook: 
+Considerando la tendencia lineal predecimos que equipos ganan los partidos de repechaje y clasifican al Mundial. Como ejemplo consideramos el Mundial Rusia 2018. Nuestro análisis predijo que Suecia sería la gran sorpresa y dejaría a Italia fuera del Mundial. Además, pronosticamos el resultado de los demás encuentros con un 100% de veracidad. El código fue desarrollado en Python (Jupyter Notebook).
+<hr>
 
-1. lineartrend_ES.ipynb : Graficamos el puesto en el FIFA ranking vs tiempo de los equipos que llegaron al repechaje. Adicionalmente formulamos una aproximación lineal usando Scipy stats.linregress(), el cual hace uso del método de los mínimos cuadrados.
+**Instrucciones**
 
-El análisis completo está descrito en el artículo: [nepy.pe/es/tendencialineal.rusia2018.](http://www.nepy.pe/es/educacion/matematica/la-tendencia-lineal-para-predecir-los-resultados-de-los-repechajes-al-mundial/) 
+Para los equipos que clasificaron al repechaje, graficamos el puesto en el FIFA ranking vs. el tiempo y calculamos la aproximación lineal usando `Scipy stats.linregress()`.
 
-Una explicación detallada del método de los mínimos cuadrados viene dada en el tutorial: [nepy.pe/es/minimoscuadrados.despacito.](http://www.nepy.pe/es/tutorial/ciencia-formal/el-metodo-de-los-minimos-cuadrados/) 
+- Descargar `lineartrend.ipynb` y correr. 
+
+
+
+**Información**
+- Un análisis completo viene dado en el artículo: 
+  
+  [La tendencia lineal para predecir los resultados de los repechajes al Mundial](https://nepy.pe/article.php?pid=6249e1fcdf5be&lan=es). 
+
