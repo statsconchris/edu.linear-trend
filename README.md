@@ -1,5 +1,6 @@
-## lineartrend.rusia2018
-### A Python code (.ipynb) to predict which teams qualify to the 2018 World Cup in Russia
+## Linear trends to predict the results of the FIFA World Cup intercontinental playoffs
+
+Considering linear trends, we correctly predict the results of the 2018 FIFA World Cup intercontinental playoffs. In particular, we show that Sweden would be the big surprise defeating Italy. The code was developed in Python.
 
 The file runs in Jupyter Notebook: 
 
