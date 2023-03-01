@@ -14,5 +14,5 @@ For the teams that qualified to the intercontinental playoffs, we plot the FIFA 
 **Information**
 - A complete analysis is given in the article: 
   
-  [Linear trends to predict the results of the FIFA World Cup intercontinental playoffs](http://www.nepy.pe/en/education/linear-trends-to-predict-the-results-of-the-world-cup-qualification-play-offs/). 
+  [Linear trends to predict the results of the FIFA World Cup intercontinental playoffs](https://nepy.pe/article.php?pid=6249e1fcdf5be&lan=en). 
 
